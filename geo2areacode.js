@@ -9,14 +9,22 @@ const db = require('./geo2areacode.json')
 const getDistance = require('./distance.js')
 
 //Input values
-myLoc = {
+//Boston
+let myLoc = {
   lat: 42.3584,
   long: -71.1259
 }
 
+//Vancouver
+myLoc = {
+  lat:  49.2827291,
+  long: -123.12073750000002
+}
+
+
 distances = db.map((item)=>{
   let dist = getDistance(myLoc.lat, myLoc.long, item.lat, item.long)
-  return {areacode: item.areacode, distance: dist}
+  return {areaCode: item.areaCode, distance: dist}
 })
 distances.sort((a, b)=>{return a.distance - b.distance});
 //Display the top 10
