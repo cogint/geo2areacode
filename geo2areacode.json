@@ -1,2018 +1,2162 @@
 [
- {
-   "areaCode": 201,
-   "lat": 40.83885,
-   "long": -74.04567813,
-   "Country": "US"
- },
- {
-   "areaCode": 202,
-   "lat": 38.89511,
-   "long": -77.03637,
-   "Country": "US"
- },
- {
-   "areaCode": 203,
-   "lat": 41.29179813,
-   "long": -73.12245313,
-   "Country": "US"
- },
- {
-   "areaCode": 205,
-   "lat": 33.42767111,
-   "long": -86.88647333,
-   "Country": "US"
- },
- {
-   "areaCode": 206,
-   "lat": 47.56402714,
-   "long": -122.3489757,
-   "Country": "US"
- },
- {
-   "areaCode": 207,
-   "lat": 44.000005,
-   "long": -69.987965,
-   "Country": "US"
- },
- {
-   "areaCode": 208,
-   "lat": 44.415674,
-   "long": -115.558462,
-   "Country": "US"
- },
- {
-   "areaCode": 209,
-   "lat": 37.604049,
-   "long": -120.999087,
-   "Country": "US"
- },
- {
-   "areaCode": 210,
-   "lat": 29.42412,
-   "long": -98.49363,
-   "Country": "US"
- },
- {
-   "areaCode": 212,
-   "lat": 40.71427,
-   "long": -74.00597,
-   "Country": "US"
- },
- {
-   "areaCode": 213,
-   "lat": 34.05223,
-   "long": -118.24368,
-   "Country": "US"
- },
- {
-   "areaCode": 214,
-   "lat": 32.86350083,
-   "long": -96.83776792,
-   "Country": "US"
- },
- {
-   "areaCode": 215,
-   "lat": 40.05372,
-   "long": -74.99628,
-   "Country": "US"
- },
- {
-   "areaCode": 216,
-   "lat": 41.4749,
-   "long": -81.61689545,
-   "Country": "US"
- },
- {
-   "areaCode": 217,
-   "lat": 39.91789571,
-   "long": -88.89502857,
-   "Country": "US"
- },
- {
-   "areaCode": 218,
-   "lat": 46.29681,
-   "long": -94.05581,
-   "Country": "US"
- },
- {
-   "areaCode": 219,
-   "lat": 41.56626333,
-   "long": -87.2636,
-   "Country": "US"
- },
- {
-   "areaCode": 220,
-   "lat": 39.74919875,
-   "long": -82.66145,
-   "Country": "US"
- },
- {
-   "areaCode": 224,
-   "lat": 42.14730875,
-   "long": -87.94760563,
-   "Country": "US"
- },
- {
-   "areaCode": 225,
-   "lat": 30.45075,
-   "long": -91.15455,
-   "Country": "US"
- },
- {
-   "areaCode": 228,
-   "lat": 30.38862667,
-   "long": -88.84521333,
-   "Country": "US"
- },
- {
-   "areaCode": 229,
-   "lat": 31.205925,
-   "long": -83.71803,
-   "Country": "US"
- },
- {
-   "areaCode": 231,
-   "lat": 43.02465,
-   "long": -85.18177333,
-   "Country": "US"
- },
- {
-   "areaCode": 234,
-   "lat": 41.06350444,
-   "long": -81.31462611,
-   "Country": "US"
- },
- {
-   "areaCode": 239,
-   "lat": 26.45611429,
-   "long": -81.80060857,
-   "Country": "US"
- },
- {
-   "areaCode": 240,
-   "lat": 39.047505,
-   "long": -77.12127929,
-   "Country": "US"
- },
- {
-   "areaCode": 248,
-   "lat": 42.54372462,
-   "long": -83.26242846,
-   "Country": "US"
- },
- {
-   "areaCode": 251,
-   "lat": 30.71658,
-   "long": -88.06097,
-   "Country": "US"
- },
- {
-   "areaCode": 252,
-   "lat": 35.42039,
-   "long": -77.43325,
-   "Country": "US"
- },
- {
-   "areaCode": 253,
-   "lat": 47.228641,
-   "long": -122.365951,
-   "Country": "US"
- },
- {
-   "areaCode": 254,
-   "lat": 31.204726,
-   "long": -97.579188,
-   "Country": "US"
- },
- {
-   "areaCode": 256,
-   "lat": 34.41824333,
-   "long": -86.63888167,
-   "Country": "US"
- },
- {
-   "areaCode": 260,
-   "lat": 41.1306,
-   "long": -85.12886,
-   "Country": "US"
- },
- {
-   "areaCode": 262,
-   "lat": 42.991375,
-   "long": -88.039892,
-   "Country": "US"
- },
- {
-   "areaCode": 267,
-   "lat": 40.05372,
-   "long": -74.99628,
-   "Country": "US"
- },
- {
-   "areaCode": 269,
-   "lat": 42.27005333,
-   "long": -85.44846333,
-   "Country": "US"
- },
- {
-   "areaCode": 270,
-   "lat": 37.44057,
-   "long": -87.00663143,
-   "Country": "US"
- },
- {
-   "areaCode": 272,
-   "lat": 41.238118,
-   "long": -76.10365,
-   "Country": "US"
- },
- {
-   "areaCode": 276,
-   "lat": 37.55376,
-   "long": -77.46026,
-   "Country": "US"
- },
- {
-   "areaCode": 281,
-   "lat": 29.70917889,
-   "long": -95.30039889,
-   "Country": "US"
- },
- {
-   "areaCode": 301,
-   "lat": 39.047505,
-   "long": -77.12127929,
-   "Country": "US"
- },
- {
-   "areaCode": 302,
-   "lat": 39.52928,
-   "long": -75.60687333,
-   "Country": "US"
- },
- {
-   "areaCode": 303,
-   "lat": 39.77755625,
-   "long": -105.0026667,
-   "Country": "US"
- },
- {
-   "areaCode": 304,
-   "lat": 39.361145,
-   "long": -81.16209333,
-   "Country": "US"
- },
- {
-   "areaCode": 305,
-   "lat": 25.74041704,
-   "long": -80.35898037,
-   "Country": "US"
- },
- {
-   "areaCode": 307,
-   "lat": 42.4022675,
-   "long": -105.5566625,
-   "Country": "US"
- },
- {
-   "areaCode": 308,
-   "lat": 40.91612,
-   "long": -99.39630333,
-   "Country": "US"
- },
- {
-   "areaCode": 309,
-   "lat": 40.93229,
-   "long": -89.85594333,
-   "Country": "US"
- },
- {
-   "areaCode": 310,
-   "lat": 33.89912813,
-   "long": -118.3529044,
-   "Country": "US"
- },
- {
-   "areaCode": 312,
-   "lat": 41.88475,
-   "long": -88.20396,
-   "Country": "US"
- },
- {
-   "areaCode": 313,
-   "lat": 42.31222889,
-   "long": -83.20119111,
-   "Country": "US"
- },
- {
-   "areaCode": 314,
-   "lat": 38.64949667,
-   "long": -90.32305333,
-   "Country": "US"
- },
- {
-   "areaCode": 315,
-   "lat": 43.253676,
-   "long": -75.862524,
-   "Country": "US"
- },
- {
-   "areaCode": 316,
-   "lat": 37.69224,
-   "long": -97.33754,
-   "Country": "US"
- },
- {
-   "areaCode": 317,
-   "lat": 39.86670667,
-   "long": -86.07174333,
-   "Country": "US"
- },
- {
-   "areaCode": 318,
-   "lat": 32.278824,
-   "long": -92.942602,
-   "Country": "US"
- },
- {
-   "areaCode": 319,
-   "lat": 41.92194833,
-   "long": -91.77887833,
-   "Country": "US"
- },
- {
-   "areaCode": 320,
-   "lat": 45.5608,
-   "long": -94.16249,
-   "Country": "US"
- },
- {
-   "areaCode": 321,
-   "lat": 28.3756865,
-   "long": -81.1535335,
-   "Country": "US"
- },
- {
-   "areaCode": 323,
-   "lat": 33.98717818,
-   "long": -118.2120055,
-   "Country": "US"
- },
- {
-   "areaCode": 325,
-   "lat": 31.956255,
-   "long": -100.08509,
-   "Country": "US"
- },
- {
-   "areaCode": 330,
-   "lat": 41.06350444,
-   "long": -81.31462611,
-   "Country": "US"
- },
- {
-   "areaCode": 331,
-   "lat": 41.8771732,
-   "long": -88.0948236,
-   "Country": "US"
- },
- {
-   "areaCode": 334,
-   "lat": 32.187855,
-   "long": -85.86078875,
-   "Country": "US"
- },
- {
-   "areaCode": 336,
-   "lat": 35.986358,
-   "long": -79.858592,
-   "Country": "US"
- },
- {
-   "areaCode": 337,
-   "lat": 30.242168,
-   "long": -92.500372,
-   "Country": "US"
- },
- {
-   "areaCode": 339,
-   "lat": 42.38921565,
-   "long": -71.10036565,
-   "Country": "US"
- },
- {
-   "areaCode": 346,
-   "lat": 29.70917889,
-   "long": -95.30039889,
-   "Country": "US"
- },
- {
-   "areaCode": 347,
-   "lat": 40.691608,
-   "long": -73.959668,
-   "Country": "US"
- },
- {
-   "areaCode": 351,
-   "lat": 42.60368286,
-   "long": -71.22620857,
-   "Country": "US"
- },
- {
-   "areaCode": 352,
-   "lat": 28.372005,
-   "long": -81.7805925,
-   "Country": "US"
- },
- {
-   "areaCode": 360,
-   "lat": 47.41118222,
-   "long": -122.5702911,
-   "Country": "US"
- },
- {
-   "areaCode": 361,
-   "lat": 28.04057333,
-   "long": -97.41869667,
-   "Country": "US"
- },
- {
-   "areaCode": 364,
-   "lat": 37.44057,
-   "long": -87.00663143,
-   "Country": "US"
- },
- {
-   "areaCode": 385,
-   "lat": 40.65385643,
-   "long": -111.8801921,
-   "Country": "US"
- },
- {
-   "areaCode": 386,
-   "lat": 29.16779857,
-   "long": -81.11085143,
-   "Country": "US"
- },
- {
-   "areaCode": 401,
-   "lat": 41.773583,
-   "long": -71.418123,
-   "Country": "US"
- },
- {
-   "areaCode": 402,
-   "lat": 41.23897143,
-   "long": -96.88106286,
-   "Country": "US"
- },
- {
-   "areaCode": 404,
-   "lat": 33.73466889,
-   "long": -84.37236667,
-   "Country": "US"
- },
- {
-   "areaCode": 405,
-   "lat": 35.504228,
-   "long": -97.413675,
-   "Country": "US"
- },
- {
-   "areaCode": 406,
-   "lat": 46.40531,
-   "long": -111.567485,
-   "Country": "US"
- },
- {
-   "areaCode": 407,
-   "lat": 28.39369067,
-   "long": -81.30824933,
-   "Country": "US"
- },
- {
-   "areaCode": 408,
-   "lat": 37.26716556,
-   "long": -121.8848322,
-   "Country": "US"
- },
- {
-   "areaCode": 409,
-   "lat": 29.66411,
-   "long": -94.436145,
-   "Country": "US"
- },
- {
-   "areaCode": 410,
-   "lat": 39.24997871,
-   "long": -76.58799065,
-   "Country": "US"
- },
- {
-   "areaCode": 412,
-   "lat": 40.39926667,
-   "long": -79.91952778,
-   "Country": "US"
- },
- {
-   "areaCode": 413,
-   "lat": 42.19644625,
-   "long": -72.713425,
-   "Country": "US"
- },
- {
-   "areaCode": 414,
-   "lat": 42.94616571,
-   "long": -87.95000714,
-   "Country": "US"
- },
- {
-   "areaCode": 415,
-   "lat": 37.927565,
-   "long": -122.517545,
-   "Country": "US"
- },
- {
-   "areaCode": 417,
-   "lat": 37.14978,
-   "long": -93.90576,
-   "Country": "US"
- },
- {
-   "areaCode": 419,
-   "lat": 41.12878286,
-   "long": -83.21476,
-   "Country": "US"
- },
- {
-   "areaCode": 423,
-   "lat": 35.84167714,
-   "long": -83.68173,
-   "Country": "US"
- },
- {
-   "areaCode": 424,
-   "lat": 33.89912813,
-   "long": -118.3529044,
-   "Country": "US"
- },
- {
-   "areaCode": 425,
-   "lat": 47.73323929,
-   "long": -121.8640779,
-   "Country": "US"
- },
- {
-   "areaCode": 432,
-   "lat": 32.03003333,
-   "long": -102.01847,
-   "Country": "US"
- },
- {
-   "areaCode": 434,
-   "lat": 37.33949333,
-   "long": -79.01659333,
-   "Country": "US"
- },
- {
-   "areaCode": 435,
-   "lat": 39.270445,
-   "long": -112.68724,
-   "Country": "US"
- },
- {
-   "areaCode": 440,
-   "lat": 41.47965933,
-   "long": -81.69733133,
-   "Country": "US"
- },
- {
-   "areaCode": 442,
-   "lat": 33.6695681,
-   "long": -116.7581124,
-   "Country": "US"
- },
- {
-   "areaCode": 443,
-   "lat": 39.24997871,
-   "long": -76.58799065,
-   "Country": "US"
- },
- {
-   "areaCode": 458,
-   "lat": 43.77279625,
-   "long": -123.1944163,
-   "Country": "US"
- },
- {
-   "areaCode": 469,
-   "lat": 32.86905783,
-   "long": -96.82601565,
-   "Country": "US"
- },
- {
-   "areaCode": 478,
-   "lat": 32.730835,
-   "long": -83.61615,
-   "Country": "US"
- },
- {
-   "areaCode": 479,
-   "lat": 35.849136,
-   "long": -93.987424,
-   "Country": "US"
- },
- {
-   "areaCode": 480,
-   "lat": 33.43175143,
-   "long": -111.7910643,
-   "Country": "US"
- },
- {
-   "areaCode": 484,
-   "lat": 40.251023,
-   "long": -75.457804,
-   "Country": "US"
- },
- {
-   "areaCode": 501,
-   "lat": 34.76818714,
-   "long": -92.42182286,
-   "Country": "US"
- },
- {
-   "areaCode": 502,
-   "lat": 38.227575,
-   "long": -85.316345,
-   "Country": "US"
- },
- {
-   "areaCode": 503,
-   "lat": 45.34785933,
-   "long": -122.7965427,
-   "Country": "US"
- },
- {
-   "areaCode": 504,
-   "lat": 29.94127286,
-   "long": -90.09217714,
-   "Country": "US"
- },
- {
-   "areaCode": 505,
-   "lat": 35.54517333,
-   "long": -107.1487933,
-   "Country": "US"
- },
- {
-   "areaCode": 507,
-   "lat": 44.04838833,
-   "long": -92.93543,
-   "Country": "US"
- },
- {
-   "areaCode": 508,
-   "lat": 42.00699273,
-   "long": -71.22419455,
-   "Country": "US"
- },
- {
-   "areaCode": 509,
-   "lat": 46.76512444,
-   "long": -118.7341211,
-   "Country": "US"
- },
- {
-   "areaCode": 510,
-   "lat": 37.43248,
-   "long": -121.8074523,
-   "Country": "US"
- },
- {
-   "areaCode": 512,
-   "lat": 30.359314,
-   "long": -97.772174,
-   "Country": "US"
- },
- {
-   "areaCode": 513,
-   "lat": 39.34930286,
-   "long": -84.49883429,
-   "Country": "US"
- },
- {
-   "areaCode": 515,
-   "lat": 41.840495,
-   "long": -93.75476,
-   "Country": "US"
- },
- {
-   "areaCode": 516,
-   "lat": 40.70185474,
-   "long": -73.59814053,
-   "Country": "US"
- },
- {
-   "areaCode": 517,
-   "lat": 42.48702833,
-   "long": -84.13755167,
-   "Country": "US"
- },
- {
-   "areaCode": 518,
-   "lat": 42.819186,
-   "long": -73.833068,
-   "Country": "US"
- },
- {
-   "areaCode": 520,
-   "lat": 32.11801571,
-   "long": -110.9764843,
-   "Country": "US"
- },
- {
-   "areaCode": 530,
-   "lat": 39.33882286,
-   "long": -121.5665943,
-   "Country": "US"
- },
- {
-   "areaCode": 531,
-   "lat": 41.23897143,
-   "long": -96.88106286,
-   "Country": "US"
- },
- {
-   "areaCode": 539,
-   "lat": 36.1754425,
-   "long": -95.783525,
-   "Country": "US"
- },
- {
-   "areaCode": 540,
-   "lat": 37.82954143,
-   "long": -79.50405714,
-   "Country": "US"
- },
- {
-   "areaCode": 541,
-   "lat": 43.77279625,
-   "long": -123.1944163,
-   "Country": "US"
- },
- {
-   "areaCode": 551,
-   "lat": 40.83885,
-   "long": -74.04567813,
-   "Country": "US"
- },
- {
-   "areaCode": 559,
-   "lat": 36.50766,
-   "long": -119.5360325,
-   "Country": "US"
- },
- {
-   "areaCode": 561,
-   "lat": 26.55579333,
-   "long": -80.13544083,
-   "Country": "US"
- },
- {
-   "areaCode": 562,
-   "lat": 33.89795286,
-   "long": -118.0842771,
-   "Country": "US"
- },
- {
-   "areaCode": 563,
-   "lat": 41.763524,
-   "long": -90.59797,
-   "Country": "US"
- },
- {
-   "areaCode": 567,
-   "lat": 41.12878286,
-   "long": -83.21476,
-   "Country": "US"
- },
- {
-   "areaCode": 570,
-   "lat": 41.238118,
-   "long": -76.10365,
-   "Country": "US"
- },
- {
-   "areaCode": 571,
-   "lat": 38.8324725,
-   "long": -77.270965,
-   "Country": "US"
- },
- {
-   "areaCode": 573,
-   "lat": 38.27809667,
-   "long": -91.34191333,
-   "Country": "US"
- },
- {
-   "areaCode": 574,
-   "lat": 41.672602,
-   "long": -86.066116,
-   "Country": "US"
- },
- {
-   "areaCode": 575,
-   "lat": 33.02238333,
-   "long": -104.6389383,
-   "Country": "US"
- },
- {
-   "areaCode": 580,
-   "lat": 35.17099167,
-   "long": -97.964955,
-   "Country": "US"
- },
- {
-   "areaCode": 585,
-   "lat": 43.17191333,
-   "long": -77.58194333,
-   "Country": "US"
- },
- {
-   "areaCode": 586,
-   "lat": 42.53975857,
-   "long": -82.97031714,
-   "Country": "US"
- },
- {
-   "areaCode": 601,
-   "lat": 32.19705429,
-   "long": -89.96107286,
-   "Country": "US"
- },
- {
-   "areaCode": 602,
-   "lat": 33.44838,
-   "long": -112.07404,
-   "Country": "US"
- },
- {
-   "areaCode": 603,
-   "lat": 43.04893875,
-   "long": -71.33472,
-   "Country": "US"
- },
- {
-   "areaCode": 605,
-   "lat": 44.472588,
-   "long": -99.176772,
-   "Country": "US"
- },
- {
-   "areaCode": 606,
-   "lat": 38.47841,
-   "long": -82.63794,
-   "Country": "US"
- },
- {
-   "areaCode": 607,
-   "lat": 42.20970667,
-   "long": -76.40743667,
-   "Country": "US"
- },
- {
-   "areaCode": 608,
-   "lat": 43.042495,
-   "long": -89.563915,
-   "Country": "US"
- },
- {
-   "areaCode": 609,
-   "lat": 39.9697625,
-   "long": -74.7087,
-   "Country": "US"
- },
- {
-   "areaCode": 610,
-   "lat": 40.251023,
-   "long": -75.457804,
-   "Country": "US"
- },
- {
-   "areaCode": 612,
-   "lat": 44.9708,
-   "long": -93.32084,
-   "Country": "US"
- },
- {
-   "areaCode": 614,
-   "lat": 40.008745,
-   "long": -83.0058775,
-   "Country": "US"
- },
- {
-   "areaCode": 615,
-   "lat": 36.10672375,
-   "long": -86.5878425,
-   "Country": "US"
- },
- {
-   "areaCode": 616,
-   "lat": 42.915765,
-   "long": -85.73082,
-   "Country": "US"
- },
- {
-   "areaCode": 617,
-   "lat": 42.34858182,
-   "long": -71.10012727,
-   "Country": "US"
- },
- {
-   "areaCode": 618,
-   "lat": 38.56595375,
-   "long": -89.9325675,
-   "Country": "US"
- },
- {
-   "areaCode": 619,
-   "lat": 32.72058333,
-   "long": -117.0466042,
-   "Country": "US"
- },
- {
-   "areaCode": 620,
-   "lat": 38.0473075,
-   "long": -98.7502925,
-   "Country": "US"
- },
- {
-   "areaCode": 623,
-   "lat": 33.5849,
-   "long": -112.2981217,
-   "Country": "US"
- },
- {
-   "areaCode": 626,
-   "lat": 34.0783752,
-   "long": -118.0051808,
-   "Country": "US"
- },
- {
-   "areaCode": 628,
-   "lat": 37.927565,
-   "long": -122.517545,
-   "Country": "US"
- },
- {
-   "areaCode": 629,
-   "lat": 36.10672375,
-   "long": -86.5878425,
-   "Country": "US"
- },
- {
-   "areaCode": 630,
-   "lat": 41.8771732,
-   "long": -88.0948236,
-   "Country": "US"
- },
- {
-   "areaCode": 631,
-   "lat": 40.79404826,
-   "long": -73.20643,
-   "Country": "US"
- },
- {
-   "areaCode": 636,
-   "lat": 38.70597833,
-   "long": -90.598965,
-   "Country": "US"
- },
- {
-   "areaCode": 641,
-   "lat": 42.07433667,
-   "long": -92.84010667,
-   "Country": "US"
- },
- {
-   "areaCode": 646,
-   "lat": 40.71427,
-   "long": -74.00597,
-   "Country": "US"
- },
- {
-   "areaCode": 650,
-   "lat": 37.53483375,
-   "long": -122.2846556,
-   "Country": "US"
- },
- {
-   "areaCode": 651,
-   "lat": 44.91242571,
-   "long": -93.08408786,
-   "Country": "US"
- },
- {
-   "areaCode": 657,
-   "lat": 33.80470067,
-   "long": -117.9245227,
-   "Country": "US"
- },
- {
-   "areaCode": 660,
-   "lat": 38.70446,
-   "long": -93.22826,
-   "Country": "US"
- },
- {
-   "areaCode": 661,
-   "lat": 35.11786571,
-   "long": -118.7745786,
-   "Country": "US"
- },
- {
-   "areaCode": 662,
-   "lat": 34.10931429,
-   "long": -89.63233286,
-   "Country": "US"
- },
- {
-   "areaCode": 667,
-   "lat": 39.24997871,
-   "long": -76.58799065,
-   "Country": "US"
- },
- {
-   "areaCode": 669,
-   "lat": 37.26716556,
-   "long": -121.8848322,
-   "Country": "US"
- },
- {
-   "areaCode": 678,
-   "lat": 33.81447478,
-   "long": -84.36085522,
-   "Country": "US"
- },
- {
-   "areaCode": 681,
-   "lat": 39.361145,
-   "long": -81.16209333,
-   "Country": "US"
- },
- {
-   "areaCode": 682,
-   "lat": 32.75957533,
-   "long": -97.22340333,
-   "Country": "US"
- },
- {
-   "areaCode": 701,
-   "lat": 47.4602675,
-   "long": -99.003305,
-   "Country": "US"
- },
- {
-   "areaCode": 702,
-   "lat": 36.14052714,
-   "long": -115.1143643,
-   "Country": "US"
- },
- {
-   "areaCode": 703,
-   "lat": 38.8324725,
-   "long": -77.270965,
-   "Country": "US"
- },
- {
-   "areaCode": 704,
-   "lat": 35.36768556,
-   "long": -80.74773778,
-   "Country": "US"
- },
- {
-   "areaCode": 706,
-   "lat": 33.63948429,
-   "long": -83.94034,
-   "Country": "US"
- },
- {
-   "areaCode": 707,
-   "lat": 38.51422909,
-   "long": -122.5273573,
-   "Country": "US"
- },
- {
-   "areaCode": 708,
-   "lat": 41.70573476,
-   "long": -87.72693048,
-   "Country": "US"
- },
- {
-   "areaCode": 712,
-   "lat": 41.880965,
-   "long": -96.13057,
-   "Country": "US"
- },
- {
-   "areaCode": 713,
-   "lat": 29.70917889,
-   "long": -95.30039889,
-   "Country": "US"
- },
- {
-   "areaCode": 714,
-   "lat": 33.80470067,
-   "long": -117.9245227,
-   "Country": "US"
- },
- {
-   "areaCode": 715,
-   "lat": 45.25371,
-   "long": -90.7018125,
-   "Country": "US"
- },
- {
-   "areaCode": 716,
-   "lat": 42.87564,
-   "long": -78.89547375,
-   "Country": "US"
- },
- {
-   "areaCode": 717,
-   "lat": 40.1537775,
-   "long": -76.582255,
-   "Country": "US"
- },
- {
-   "areaCode": 718,
-   "lat": 40.691608,
-   "long": -73.959668,
-   "Country": "US"
- },
- {
-   "areaCode": 719,
-   "lat": 38.64372,
-   "long": -104.7528333,
-   "Country": "US"
- },
- {
-   "areaCode": 720,
-   "lat": 39.77755625,
-   "long": -105.0026667,
-   "Country": "US"
- },
- {
-   "areaCode": 724,
-   "lat": 40.565275,
-   "long": -79.9919975,
-   "Country": "US"
- },
- {
-   "areaCode": 725,
-   "lat": 36.14052714,
-   "long": -115.1143643,
-   "Country": "US"
- },
- {
-   "areaCode": 727,
-   "lat": 28.006899,
-   "long": -82.736329,
-   "Country": "US"
- },
- {
-   "areaCode": 731,
-   "lat": 35.61452,
-   "long": -88.81395,
-   "Country": "US"
- },
- {
-   "areaCode": 732,
-   "lat": 40.42072143,
-   "long": -74.32367929,
-   "Country": "US"
- },
- {
-   "areaCode": 734,
-   "lat": 42.25120273,
-   "long": -83.41347636,
-   "Country": "US"
- },
- {
-   "areaCode": 737,
-   "lat": 30.359314,
-   "long": -97.772174,
-   "Country": "US"
- },
- {
-   "areaCode": 740,
-   "lat": 39.74919875,
-   "long": -82.66145,
-   "Country": "US"
- },
- {
-   "areaCode": 743,
-   "lat": 35.986358,
-   "long": -79.858592,
-   "Country": "US"
- },
- {
-   "areaCode": 747,
-   "lat": 34.186115,
-   "long": -118.4355433,
-   "Country": "US"
- },
- {
-   "areaCode": 754,
-   "lat": 26.14313842,
-   "long": -80.20192526,
-   "Country": "US"
- },
- {
-   "areaCode": 757,
-   "lat": 36.87017143,
-   "long": -76.31351429,
-   "Country": "US"
- },
- {
-   "areaCode": 760,
-   "lat": 33.6695681,
-   "long": -116.7581124,
-   "Country": "US"
- },
- {
-   "areaCode": 762,
-   "lat": 33.63948429,
-   "long": -83.94034,
-   "Country": "US"
- },
- {
-   "areaCode": 763,
-   "lat": 45.09851444,
-   "long": -93.35914889,
-   "Country": "US"
- },
- {
-   "areaCode": 765,
-   "lat": 40.28916857,
-   "long": -85.93796143,
-   "Country": "US"
- },
- {
-   "areaCode": 769,
-   "lat": 32.19705429,
-   "long": -89.96107286,
-   "Country": "US"
- },
- {
-   "areaCode": 770,
-   "lat": 33.8336605,
-   "long": -84.3569235,
-   "Country": "US"
- },
- {
-   "areaCode": 772,
-   "lat": 27.37194,
-   "long": -80.3461,
-   "Country": "US"
- },
- {
-   "areaCode": 773,
-   "lat": 41.88475,
-   "long": -88.20396,
-   "Country": "US"
- },
- {
-   "areaCode": 774,
-   "lat": 42.00699273,
-   "long": -71.22419455,
-   "Country": "US"
- },
- {
-   "areaCode": 775,
-   "lat": 38.6091575,
-   "long": -118.82945,
-   "Country": "US"
- },
- {
-   "areaCode": 779,
-   "lat": 42.05086917,
-   "long": -88.6227275,
-   "Country": "US"
- },
- {
-   "areaCode": 781,
-   "lat": 42.38921565,
-   "long": -71.10036565,
-   "Country": "US"
- },
- {
-   "areaCode": 785,
-   "lat": 38.984614,
-   "long": -96.88463,
-   "Country": "US"
- },
- {
-   "areaCode": 786,
-   "lat": 25.74041704,
-   "long": -80.35898037,
-   "Country": "US"
- },
- {
-   "areaCode": 801,
-   "lat": 40.65385643,
-   "long": -111.8801921,
-   "Country": "US"
- },
- {
-   "areaCode": 802,
-   "lat": 44.363525,
-   "long": -72.873175,
-   "Country": "US"
- },
- {
-   "areaCode": 803,
-   "lat": 34.08893,
-   "long": -81.057868,
-   "Country": "US"
- },
- {
-   "areaCode": 804,
-   "lat": 37.456984,
-   "long": -77.415816,
-   "Country": "US"
- },
- {
-   "areaCode": 805,
-   "lat": 34.60204125,
-   "long": -119.6962594,
-   "Country": "US"
- },
- {
-   "areaCode": 806,
-   "lat": 34.32821667,
-   "long": -101.79777,
-   "Country": "US"
- },
- {
-   "areaCode": 808,
-   "lat": 20.95603556,
-   "long": -157.2379267,
-   "Country": "US"
- },
- {
-   "areaCode": 810,
-   "lat": 42.99428667,
-   "long": -83.24290333,
-   "Country": "US"
- },
- {
-   "areaCode": 812,
-   "lat": 38.66688,
-   "long": -86.39125714,
-   "Country": "US"
- },
- {
-   "areaCode": 813,
-   "lat": 28.04743889,
-   "long": -82.42785889,
-   "Country": "US"
- },
- {
-   "areaCode": 814,
-   "lat": 40.9420075,
-   "long": -78.8154425,
-   "Country": "US"
- },
- {
-   "areaCode": 815,
-   "lat": 42.05086917,
-   "long": -88.6227275,
-   "Country": "US"
- },
- {
-   "areaCode": 816,
-   "lat": 39.104366,
-   "long": -94.500676,
-   "Country": "US"
- },
- {
-   "areaCode": 817,
-   "lat": 32.75957533,
-   "long": -97.22340333,
-   "Country": "US"
- },
- {
-   "areaCode": 818,
-   "lat": 34.186115,
-   "long": -118.4355433,
-   "Country": "US"
- },
- {
-   "areaCode": 828,
-   "lat": 35.66707,
-   "long": -81.94761,
-   "Country": "US"
- },
- {
-   "areaCode": 830,
-   "lat": 29.478228,
-   "long": -99.325156,
-   "Country": "US"
- },
- {
-   "areaCode": 831,
-   "lat": 36.75860714,
-   "long": -121.7704657,
-   "Country": "US"
- },
- {
-   "areaCode": 832,
-   "lat": 29.70917889,
-   "long": -95.30039889,
-   "Country": "US"
- },
- {
-   "areaCode": 843,
-   "lat": 33.0913225,
-   "long": -79.901955,
-   "Country": "US"
- },
- {
-   "areaCode": 845,
-   "lat": 41.47292,
-   "long": -74.06412333,
-   "Country": "US"
- },
- {
-   "areaCode": 847,
-   "lat": 42.14730875,
-   "long": -87.94760563,
-   "Country": "US"
- },
- {
-   "areaCode": 848,
-   "lat": 40.42072143,
-   "long": -74.32367929,
-   "Country": "US"
- },
- {
-   "areaCode": 850,
-   "lat": 30.41866889,
-   "long": -86.61346,
-   "Country": "US"
- },
- {
-   "areaCode": 856,
-   "lat": 39.73721857,
-   "long": -75.05378571,
-   "Country": "US"
- },
- {
-   "areaCode": 857,
-   "lat": 42.34858182,
-   "long": -71.10012727,
-   "Country": "US"
- },
- {
-   "areaCode": 858,
-   "lat": 32.96282,
-   "long": -117.03586,
-   "Country": "US"
- },
- {
-   "areaCode": 859,
-   "lat": 38.4547925,
-   "long": -84.4768825,
-   "Country": "US"
- },
- {
-   "areaCode": 860,
-   "lat": 41.67400917,
-   "long": -72.64104167,
-   "Country": "US"
- },
- {
-   "areaCode": 862,
-   "lat": 40.82511286,
-   "long": -74.21640333,
-   "Country": "US"
- },
- {
-   "areaCode": 863,
-   "lat": 28.030855,
-   "long": -81.84133,
-   "Country": "US"
- },
- {
-   "areaCode": 864,
-   "lat": 34.72085833,
-   "long": -82.29456333,
-   "Country": "US"
- },
- {
-   "areaCode": 865,
-   "lat": 35.9344575,
-   "long": -84.10762,
-   "Country": "US"
- },
- {
-   "areaCode": 870,
-   "lat": 34.65417167,
-   "long": -91.68221833,
-   "Country": "US"
- },
- {
-   "areaCode": 878,
-   "lat": 40.459707,
-   "long": -79.962276,
-   "Country": "US"
- },
- {
-   "areaCode": 901,
-   "lat": 35.120715,
-   "long": -89.849395,
-   "Country": "US"
- },
- {
-   "areaCode": 903,
-   "lat": 33.01201111,
-   "long": -95.52637667,
-   "Country": "US"
- },
- {
-   "areaCode": 904,
-   "lat": 30.25227667,
-   "long": -81.60564667,
-   "Country": "US"
- },
- {
-   "areaCode": 907,
-   "lat": 60.26835333,
-   "long": -141.136315,
-   "Country": "US"
- },
- {
-   "areaCode": 908,
-   "lat": 40.66289727,
-   "long": -74.28977364,
-   "Country": "US"
- },
- {
-   "areaCode": 909,
-   "lat": 34.074295,
-   "long": -117.5405572,
-   "Country": "US"
- },
- {
-   "areaCode": 910,
-   "lat": 34.757956,
-   "long": -78.453958,
-   "Country": "US"
- },
- {
-   "areaCode": 912,
-   "lat": 32.12640333,
-   "long": -81.49298333,
-   "Country": "US"
- },
- {
-   "areaCode": 913,
-   "lat": 39.0303175,
-   "long": -94.718015,
-   "Country": "US"
- },
- {
-   "areaCode": 914,
-   "lat": 41.026625,
-   "long": -73.8051675,
-   "Country": "US"
- },
- {
-   "areaCode": 915,
-   "lat": 31.70664,
-   "long": -106.39512,
-   "Country": "US"
- },
- {
-   "areaCode": 916,
-   "lat": 38.54004235,
-   "long": -121.3983159,
-   "Country": "US"
- },
- {
-   "areaCode": 917,
-   "lat": 40.695385,
-   "long": -73.967385,
-   "Country": "US"
- },
- {
-   "areaCode": 918,
-   "lat": 36.1754425,
-   "long": -95.783525,
-   "Country": "US"
- },
- {
-   "areaCode": 919,
-   "lat": 35.72614286,
-   "long": -78.77469,
-   "Country": "US"
- },
- {
-   "areaCode": 920,
-   "lat": 43.948076,
-   "long": -88.281434,
-   "Country": "US"
- },
- {
-   "areaCode": 925,
-   "lat": 37.89177667,
-   "long": -121.935052,
-   "Country": "US"
- },
- {
-   "areaCode": 928,
-   "lat": 34.3190475,
-   "long": -113.5519425,
-   "Country": "US"
- },
- {
-   "areaCode": 929,
-   "lat": 40.691608,
-   "long": -73.959668,
-   "Country": "US"
- },
- {
-   "areaCode": 930,
-   "lat": 38.66688,
-   "long": -86.39125714,
-   "Country": "US"
- },
- {
-   "areaCode": 931,
-   "lat": 36.10256,
-   "long": -86.63212333,
-   "Country": "US"
- },
- {
-   "areaCode": 936,
-   "lat": 30.99429,
-   "long": -95.097855,
-   "Country": "US"
- },
- {
-   "areaCode": 937,
-   "lat": 39.85426692,
-   "long": -84.11555769,
-   "Country": "US"
- },
- {
-   "areaCode": 940,
-   "lat": 33.39159333,
-   "long": -97.54021,
-   "Country": "US"
- },
- {
-   "areaCode": 941,
-   "lat": 27.20213333,
-   "long": -82.34435167,
-   "Country": "US"
- },
- {
-   "areaCode": 947,
-   "lat": 42.54372462,
-   "long": -83.26242846,
-   "Country": "US"
- },
- {
-   "areaCode": 949,
-   "lat": 33.57348615,
-   "long": -117.7337162,
-   "Country": "US"
- },
- {
-   "areaCode": 951,
-   "lat": 33.819667,
-   "long": -117.258786,
-   "Country": "US"
- },
- {
-   "areaCode": 952,
-   "lat": 44.838195,
-   "long": -93.4117575,
-   "Country": "US"
- },
- {
-   "areaCode": 954,
-   "lat": 26.14313842,
-   "long": -80.20192526,
-   "Country": "US"
- },
- {
-   "areaCode": 956,
-   "lat": 26.299599,
-   "long": -98.138061,
-   "Country": "US"
- },
- {
-   "areaCode": 959,
-   "lat": 41.67400917,
-   "long": -72.64104167,
-   "Country": "US"
- },
- {
-   "areaCode": 970,
-   "lat": 40.11755,
-   "long": -105.854795,
-   "Country": "US"
- },
- {
-   "areaCode": 971,
-   "lat": 45.34785933,
-   "long": -122.7965427,
-   "Country": "US"
- },
- {
-   "areaCode": 972,
-   "lat": 32.86905783,
-   "long": -96.82601565,
-   "Country": "US"
- },
- {
-   "areaCode": 973,
-   "lat": 40.83461737,
-   "long": -74.21941579,
-   "Country": "US"
- },
- {
-   "areaCode": 978,
-   "lat": 42.60368286,
-   "long": -71.22620857,
-   "Country": "US"
- },
- {
-   "areaCode": 979,
-   "lat": 30.11206667,
-   "long": -96.04625333,
-   "Country": "US"
- },
- {
-   "areaCode": 980,
-   "lat": 35.36768556,
-   "long": -80.74773778,
-   "Country": "US"
- },
- {
-   "areaCode": 984,
-   "lat": 35.72614286,
-   "long": -78.77469,
-   "Country": "US"
- },
- {
-   "areaCode": 985,
-   "lat": 29.97931333,
-   "long": -90.32739,
-   "Country": "US"
- },
- {
-   "areaCode": 989,
-   "lat": 43.52936,
-   "long": -84.16104,
-   "Country": "US"
- },
- {
-   "areaCode": 854,
-   "lat": 33.0913225,
-   "long": -79.901955,
-   "Country": "US"
- },
- {
-   "areaCode": 204,
-   "lat": 51.20303364,
-   "long": -98.72993455,
-   "Country": "CA"
- },
- {
-   "areaCode": 226,
-   "lat": 43.23383118,
-   "long": -81.23092235,
-   "Country": "CA"
- },
- {
-   "areaCode": 236,
-   "lat": 50.43272529,
-   "long": -121.5153694,
-   "Country": "CA"
- },
- {
-   "areaCode": 249,
-   "lat": 46.04182286,
-   "long": -80.00328643,
-   "Country": "CA"
- },
- {
-   "areaCode": 250,
-   "lat": 50.83725909,
-   "long": -121.84152,
-   "Country": "CA"
- },
- {
-   "areaCode": 289,
-   "lat": 43.5654075,
-   "long": -79.333166,
-   "Country": "CA"
- },
- {
-   "areaCode": 306,
-   "lat": 51.39973636,
-   "long": -105.6886145,
-   "Country": "CA"
- },
- {
-   "areaCode": 343,
-   "lat": 44.95518214,
-   "long": -76.08718,
-   "Country": "CA"
- },
- {
-   "areaCode": 365,
-   "lat": 43.575115,
-   "long": -79.3496,
-   "Country": "CA"
- },
- {
-   "areaCode": 403,
-   "lat": 51.2093535,
-   "long": -113.591395,
-   "Country": "CA"
- },
- {
-   "areaCode": 416,
-   "lat": 43.459085,
-   "long": -79.70173,
-   "Country": "CA"
- },
- {
-   "areaCode": 418,
-   "lat": 47.21553809,
-   "long": -71.38443617,
-   "Country": "CA"
- },
- {
-   "areaCode": 431,
-   "lat": 51.20303364,
-   "long": -98.72993455,
-   "Country": "CA"
- },
- {
-   "areaCode": 437,
-   "lat": 43.70011,
-   "long": -79.4163,
-   "Country": "CA"
- },
- {
-   "areaCode": 438,
-   "lat": 45.5546,
-   "long": -73.88272,
-   "Country": "CA"
- },
- {
-   "areaCode": 450,
-   "lat": 45.78923277,
-   "long": -73.21601426,
-   "Country": "CA"
- },
- {
-   "areaCode": 506,
-   "lat": 46.56609222,
-   "long": -66.06047556,
-   "Country": "CA"
- },
- {
-   "areaCode": 514,
-   "lat": 46.126976,
-   "long": -73.355944,
-   "Country": "CA"
- },
- {
-   "areaCode": 519,
-   "lat": 43.2104985,
-   "long": -81.1431145,
-   "Country": "CA"
- },
- {
-   "areaCode": 579,
-   "lat": 45.75695865,
-   "long": -73.27781027,
-   "Country": "CA"
- },
- {
-   "areaCode": 581,
-   "lat": 47.26140744,
-   "long": -71.35332372,
-   "Country": "CA"
- },
- {
-   "areaCode": 587,
-   "lat": 52.68835364,
-   "long": -113.7020895,
-   "Country": "CA"
- },
- {
-   "areaCode": 604,
-   "lat": 49.30576625,
-   "long": -122.9847563,
-   "Country": "CA"
- },
- {
-   "areaCode": 613,
-   "lat": 44.93638471,
-   "long": -76.40218471,
-   "Country": "CA"
- },
- {
-   "areaCode": 639,
-   "lat": 51.636756,
-   "long": -106.001166,
-   "Country": "CA"
- },
- {
-   "areaCode": 647,
-   "lat": 43.70011,
-   "long": -79.4163,
-   "Country": "CA"
- },
- {
-   "areaCode": 705,
-   "lat": 45.7227065,
-   "long": -80.313261,
-   "Country": "CA"
- },
- {
-   "areaCode": 709,
-   "lat": 48.94973286,
-   "long": -55.95987714,
-   "Country": "CA"
- },
- {
-   "areaCode": 778,
-   "lat": 50.3371798,
-   "long": -122.2148216,
-   "Country": "CA"
- },
- {
-   "areaCode": 780,
-   "lat": 53.9300256,
-   "long": -113.8699808,
-   "Country": "CA"
- },
- {
-   "areaCode": 782,
-   "lat": 45.0743675,
-   "long": -63.865825,
-   "Country": "CA"
- },
- {
-   "areaCode": 807,
-   "lat": 47.495825,
-   "long": -88.84699,
-   "Country": "CA"
- },
- {
-   "areaCode": 819,
-   "lat": 46.339735,
-   "long": -73.46564028,
-   "Country": "CA"
- },
- {
-   "areaCode": 825,
-   "lat": 53.548798,
-   "long": -113.321158,
-   "Country": "CA"
- },
- {
-   "areaCode": 867,
-   "lat": 62.30636,
-   "long": -105.9745233,
-   "Country": "CA"
- },
- {
-   "areaCode": 873,
-   "lat": 46.46909136,
-   "long": -74.10479409,
-   "Country": "CA"
- },
- {
-   "areaCode": 902,
-   "lat": 45.44152167,
-   "long": -63.15571417,
-   "Country": "CA"
- },
- {
-   "areaCode": 905,
-   "lat": 43.5654075,
-   "long": -79.333166,
-   "Country": "CA"
- }
+  {
+    "areaCode": 201,
+    "lat": 40.83885,
+    "long": -74.04567813,
+    "Country": "US"
+  },
+  {
+    "areaCode": 202,
+    "lat": 38.89511,
+    "long": -77.03637,
+    "Country": "US"
+  },
+  {
+    "areaCode": 203,
+    "lat": 41.29179813,
+    "long": -73.12245313,
+    "Country": "US"
+  },
+  {
+    "areaCode": 204,
+    "lat": 51.20303364,
+    "long": -98.72993455,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 205,
+    "lat": 33.42767111,
+    "long": -86.88647333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 206,
+    "lat": 47.56402714,
+    "long": -122.3489757,
+    "Country": "US"
+  },
+  {
+    "areaCode": 207,
+    "lat": 44.000005,
+    "long": -69.987965,
+    "Country": "US"
+  },
+  {
+    "areaCode": 208,
+    "lat": 44.415674,
+    "long": -115.558462,
+    "Country": "US"
+  },
+  {
+    "areaCode": 209,
+    "lat": 37.604049,
+    "long": -120.999087,
+    "Country": "US"
+  },
+  {
+    "areaCode": 210,
+    "lat": 29.42412,
+    "long": -98.49363,
+    "Country": "US"
+  },
+  {
+    "areaCode": 212,
+    "lat": 40.71427,
+    "long": -74.00597,
+    "Country": "US"
+  },
+  {
+    "areaCode": 213,
+    "lat": 34.05223,
+    "long": -118.24368,
+    "Country": "US"
+  },
+  {
+    "areaCode": 214,
+    "lat": 32.86350083,
+    "long": -96.83776792,
+    "Country": "US"
+  },
+  {
+    "areaCode": 215,
+    "lat": 40.05372,
+    "long": -74.99628,
+    "Country": "US"
+  },
+  {
+    "areaCode": 216,
+    "lat": 41.4749,
+    "long": -81.61689545,
+    "Country": "US"
+  },
+  {
+    "areaCode": 217,
+    "lat": 39.91789571,
+    "long": -88.89502857,
+    "Country": "US"
+  },
+  {
+    "areaCode": 218,
+    "lat": 46.29681,
+    "long": -94.05581,
+    "Country": "US"
+  },
+  {
+    "areaCode": 219,
+    "lat": 41.56626333,
+    "long": -87.2636,
+    "Country": "US"
+  },
+  {
+    "areaCode": 220,
+    "lat": 39.74919875,
+    "long": -82.66145,
+    "Country": "US"
+  },
+  {
+    "areaCode": 223,
+    "lat": 40.1537775,
+    "long": -76.582255,
+    "Country": "US"
+  },
+  {
+    "areaCode": 224,
+    "lat": 42.14730875,
+    "long": -87.94760563,
+    "Country": "US"
+  },
+  {
+    "areaCode": 225,
+    "lat": 30.45075,
+    "long": -91.15455,
+    "Country": "US"
+  },
+  {
+    "areaCode": 226,
+    "lat": 43.23383118,
+    "long": -81.23092235,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 228,
+    "lat": 30.38862667,
+    "long": -88.84521333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 229,
+    "lat": 31.205925,
+    "long": -83.71803,
+    "Country": "US"
+  },
+  {
+    "areaCode": 231,
+    "lat": 43.02465,
+    "long": -85.18177333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 234,
+    "lat": 41.06350444,
+    "long": -81.31462611,
+    "Country": "US"
+  },
+  {
+    "areaCode": 236,
+    "lat": 50.43272529,
+    "long": -121.5153694,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 239,
+    "lat": 26.45611429,
+    "long": -81.80060857,
+    "Country": "US"
+  },
+  {
+    "areaCode": 240,
+    "lat": 39.047505,
+    "long": -77.12127929,
+    "Country": "US"
+  },
+  {
+    "areaCode": 248,
+    "lat": 42.54372462,
+    "long": -83.26242846,
+    "Country": "US"
+  },
+  {
+    "areaCode": 249,
+    "lat": 46.04182286,
+    "long": -80.00328643,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 250,
+    "lat": 50.83725909,
+    "long": -121.84152,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 251,
+    "lat": 30.71658,
+    "long": -88.06097,
+    "Country": "US"
+  },
+  {
+    "areaCode": 252,
+    "lat": 35.42039,
+    "long": -77.43325,
+    "Country": "US"
+  },
+  {
+    "areaCode": 253,
+    "lat": 47.228641,
+    "long": -122.365951,
+    "Country": "US"
+  },
+  {
+    "areaCode": 254,
+    "lat": 31.204726,
+    "long": -97.579188,
+    "Country": "US"
+  },
+  {
+    "areaCode": 256,
+    "lat": 34.41824333,
+    "long": -86.63888167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 260,
+    "lat": 41.1306,
+    "long": -85.12886,
+    "Country": "US"
+  },
+  {
+    "areaCode": 262,
+    "lat": 42.991375,
+    "long": -88.039892,
+    "Country": "US"
+  },
+  {
+    "areaCode": 267,
+    "lat": 40.05372,
+    "long": -74.99628,
+    "Country": "US"
+  },
+  {
+    "areaCode": 269,
+    "lat": 42.27005333,
+    "long": -85.44846333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 270,
+    "lat": 37.44057,
+    "long": -87.00663143,
+    "Country": "US"
+  },
+  {
+    "areaCode": 272,
+    "lat": 41.238118,
+    "long": -76.10365,
+    "Country": "US"
+  },
+  {
+    "areaCode": 276,
+    "lat": 37.55376,
+    "long": -77.46026,
+    "Country": "US"
+  },
+  {
+    "areaCode": 279,
+    "lat": 38.54004235,
+    "long": -121.3983159,
+    "Country": "US"
+  },
+  {
+    "areaCode": 281,
+    "lat": 29.70917889,
+    "long": -95.30039889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 289,
+    "lat": 43.5654075,
+    "long": -79.333166,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 301,
+    "lat": 39.047505,
+    "long": -77.12127929,
+    "Country": "US"
+  },
+  {
+    "areaCode": 302,
+    "lat": 39.52928,
+    "long": -75.60687333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 303,
+    "lat": 39.77755625,
+    "long": -105.0026667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 304,
+    "lat": 39.361145,
+    "long": -81.16209333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 305,
+    "lat": 25.74041704,
+    "long": -80.35898037,
+    "Country": "US"
+  },
+  {
+    "areaCode": 306,
+    "lat": 51.39973636,
+    "long": -105.6886145,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 307,
+    "lat": 42.4022675,
+    "long": -105.5566625,
+    "Country": "US"
+  },
+  {
+    "areaCode": 308,
+    "lat": 40.91612,
+    "long": -99.39630333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 309,
+    "lat": 40.93229,
+    "long": -89.85594333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 310,
+    "lat": 33.89912813,
+    "long": -118.3529044,
+    "Country": "US"
+  },
+  {
+    "areaCode": 312,
+    "lat": 41.88475,
+    "long": -88.20396,
+    "Country": "US"
+  },
+  {
+    "areaCode": 313,
+    "lat": 42.31222889,
+    "long": -83.20119111,
+    "Country": "US"
+  },
+  {
+    "areaCode": 314,
+    "lat": 38.64949667,
+    "long": -90.32305333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 315,
+    "lat": 43.253676,
+    "long": -75.862524,
+    "Country": "US"
+  },
+  {
+    "areaCode": 316,
+    "lat": 37.69224,
+    "long": -97.33754,
+    "Country": "US"
+  },
+  {
+    "areaCode": 317,
+    "lat": 39.86670667,
+    "long": -86.07174333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 318,
+    "lat": 32.278824,
+    "long": -92.942602,
+    "Country": "US"
+  },
+  {
+    "areaCode": 319,
+    "lat": 41.92194833,
+    "long": -91.77887833,
+    "Country": "US"
+  },
+  {
+    "areaCode": 320,
+    "lat": 45.5608,
+    "long": -94.16249,
+    "Country": "US"
+  },
+  {
+    "areaCode": 321,
+    "lat": 28.3756865,
+    "long": -81.1535335,
+    "Country": "US"
+  },
+  {
+    "areaCode": 323,
+    "lat": 33.98717818,
+    "long": -118.2120055,
+    "Country": "US"
+  },
+  {
+    "areaCode": 325,
+    "lat": 31.956255,
+    "long": -100.08509,
+    "Country": "US"
+  },
+  {
+    "areaCode": 330,
+    "lat": 41.06350444,
+    "long": -81.31462611,
+    "Country": "US"
+  },
+  {
+    "areaCode": 331,
+    "lat": 41.8771732,
+    "long": -88.0948236,
+    "Country": "US"
+  },
+  {
+    "areaCode": 332,
+    "lat": 40.71427,
+    "long": -74.00597,
+    "Country": "US"
+  },
+  {
+    "areaCode": 334,
+    "lat": 32.187855,
+    "long": -85.86078875,
+    "Country": "US"
+  },
+  {
+    "areaCode": 336,
+    "lat": 35.986358,
+    "long": -79.858592,
+    "Country": "US"
+  },
+  {
+    "areaCode": 337,
+    "lat": 30.242168,
+    "long": -92.500372,
+    "Country": "US"
+  },
+  {
+    "areaCode": 339,
+    "lat": 42.38921565,
+    "long": -71.10036565,
+    "Country": "US"
+  },
+  {
+    "areaCode": 343,
+    "lat": 44.95518214,
+    "long": -76.08718,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 346,
+    "lat": 29.70917889,
+    "long": -95.30039889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 347,
+    "lat": 40.691608,
+    "long": -73.959668,
+    "Country": "US"
+  },
+  {
+    "areaCode": 351,
+    "lat": 42.60368286,
+    "long": -71.22620857,
+    "Country": "US"
+  },
+  {
+    "areaCode": 352,
+    "lat": 28.372005,
+    "long": -81.7805925,
+    "Country": "US"
+  },
+  {
+    "areaCode": 360,
+    "lat": 47.41118222,
+    "long": -122.5702911,
+    "Country": "US"
+  },
+  {
+    "areaCode": 361,
+    "lat": 28.04057333,
+    "long": -97.41869667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 364,
+    "lat": 37.44057,
+    "long": -87.00663143,
+    "Country": "US"
+  },
+  {
+    "areaCode": 365,
+    "lat": 43.575115,
+    "long": -79.3496,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 367,
+    "lat": 47.26140744,
+    "long": -71.35332372,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 380,
+    "lat": 40.008745,
+    "long": -83.0058775,
+    "Country": "US"
+  },
+  {
+    "areaCode": 385,
+    "lat": 40.65385643,
+    "long": -111.8801921,
+    "Country": "US"
+  },
+  {
+    "areaCode": 386,
+    "lat": 29.16779857,
+    "long": -81.11085143,
+    "Country": "US"
+  },
+  {
+    "areaCode": 401,
+    "lat": 41.773583,
+    "long": -71.418123,
+    "Country": "US"
+  },
+  {
+    "areaCode": 402,
+    "lat": 41.23897143,
+    "long": -96.88106286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 403,
+    "lat": 51.2093535,
+    "long": -113.591395,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 404,
+    "lat": 33.73466889,
+    "long": -84.37236667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 405,
+    "lat": 35.504228,
+    "long": -97.413675,
+    "Country": "US"
+  },
+  {
+    "areaCode": 406,
+    "lat": 46.40531,
+    "long": -111.567485,
+    "Country": "US"
+  },
+  {
+    "areaCode": 407,
+    "lat": 28.39369067,
+    "long": -81.30824933,
+    "Country": "US"
+  },
+  {
+    "areaCode": 408,
+    "lat": 37.26716556,
+    "long": -121.8848322,
+    "Country": "US"
+  },
+  {
+    "areaCode": 409,
+    "lat": 29.66411,
+    "long": -94.436145,
+    "Country": "US"
+  },
+  {
+    "areaCode": 410,
+    "lat": 39.24997871,
+    "long": -76.58799065,
+    "Country": "US"
+  },
+  {
+    "areaCode": 412,
+    "lat": 40.39926667,
+    "long": -79.91952778,
+    "Country": "US"
+  },
+  {
+    "areaCode": 413,
+    "lat": 42.19644625,
+    "long": -72.713425,
+    "Country": "US"
+  },
+  {
+    "areaCode": 414,
+    "lat": 42.94616571,
+    "long": -87.95000714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 415,
+    "lat": 37.927565,
+    "long": -122.517545,
+    "Country": "US"
+  },
+  {
+    "areaCode": 416,
+    "lat": 43.459085,
+    "long": -79.70173,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 417,
+    "lat": 37.14978,
+    "long": -93.90576,
+    "Country": "US"
+  },
+  {
+    "areaCode": 418,
+    "lat": 47.21553809,
+    "long": -71.38443617,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 419,
+    "lat": 41.12878286,
+    "long": -83.21476,
+    "Country": "US"
+  },
+  {
+    "areaCode": 423,
+    "lat": 35.84167714,
+    "long": -83.68173,
+    "Country": "US"
+  },
+  {
+    "areaCode": 424,
+    "lat": 33.89912813,
+    "long": -118.3529044,
+    "Country": "US"
+  },
+  {
+    "areaCode": 425,
+    "lat": 47.73323929,
+    "long": -121.8640779,
+    "Country": "US"
+  },
+  {
+    "areaCode": 430,
+    "lat": 38.66688,
+    "long": -86.39125714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 431,
+    "lat": 51.20303364,
+    "long": -98.72993455,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 432,
+    "lat": 32.03003333,
+    "long": -102.01847,
+    "Country": "US"
+  },
+  {
+    "areaCode": 434,
+    "lat": 37.33949333,
+    "long": -79.01659333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 435,
+    "lat": 39.270445,
+    "long": -112.68724,
+    "Country": "US"
+  },
+  {
+    "areaCode": 437,
+    "lat": 43.70011,
+    "long": -79.4163,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 438,
+    "lat": 45.5546,
+    "long": -73.88272,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 440,
+    "lat": 41.47965933,
+    "long": -81.69733133,
+    "Country": "US"
+  },
+  {
+    "areaCode": 442,
+    "lat": 33.6695681,
+    "long": -116.7581124,
+    "Country": "US"
+  },
+  {
+    "areaCode": 443,
+    "lat": 39.24997871,
+    "long": -76.58799065,
+    "Country": "US"
+  },
+  {
+    "areaCode": 445,
+    "lat": 40.05372,
+    "long": -74.99628,
+    "Country": "US"
+  },
+  {
+    "areaCode": 450,
+    "lat": 45.78923277,
+    "long": -73.21601426,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 458,
+    "lat": 43.77279625,
+    "long": -123.1944163,
+    "Country": "US"
+  },
+  {
+    "areaCode": 463,
+    "lat": 39.86670667,
+    "long": -86.07174333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 463,
+    "lat": 39.86670667,
+    "long": -86.07174333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 469,
+    "lat": 32.86905783,
+    "long": -96.82601565,
+    "Country": "US"
+  },
+  {
+    "areaCode": 470,
+    "lat": 33.81447478,
+    "long": -84.36085522,
+    "Country": "US"
+  },
+  {
+    "areaCode": 475,
+    "lat": 41.29179813,
+    "long": -73.12245313,
+    "Country": "US"
+  },
+  {
+    "areaCode": 478,
+    "lat": 32.730835,
+    "long": -83.61615,
+    "Country": "US"
+  },
+  {
+    "areaCode": 479,
+    "lat": 35.849136,
+    "long": -93.987424,
+    "Country": "US"
+  },
+  {
+    "areaCode": 480,
+    "lat": 33.43175143,
+    "long": -111.7910643,
+    "Country": "US"
+  },
+  {
+    "areaCode": 484,
+    "lat": 40.251023,
+    "long": -75.457804,
+    "Country": "US"
+  },
+  {
+    "areaCode": 501,
+    "lat": 34.76818714,
+    "long": -92.42182286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 502,
+    "lat": 38.227575,
+    "long": -85.316345,
+    "Country": "US"
+  },
+  {
+    "areaCode": 503,
+    "lat": 45.34785933,
+    "long": -122.7965427,
+    "Country": "US"
+  },
+  {
+    "areaCode": 504,
+    "lat": 29.94127286,
+    "long": -90.09217714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 505,
+    "lat": 35.54517333,
+    "long": -107.1487933,
+    "Country": "US"
+  },
+  {
+    "areaCode": 506,
+    "lat": 46.56609222,
+    "long": -66.06047556,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 507,
+    "lat": 44.04838833,
+    "long": -92.93543,
+    "Country": "US"
+  },
+  {
+    "areaCode": 508,
+    "lat": 42.00699273,
+    "long": -71.22419455,
+    "Country": "US"
+  },
+  {
+    "areaCode": 509,
+    "lat": 46.76512444,
+    "long": -118.7341211,
+    "Country": "US"
+  },
+  {
+    "areaCode": 510,
+    "lat": 37.43248,
+    "long": -121.8074523,
+    "Country": "US"
+  },
+  {
+    "areaCode": 512,
+    "lat": 30.359314,
+    "long": -97.772174,
+    "Country": "US"
+  },
+  {
+    "areaCode": 513,
+    "lat": 39.34930286,
+    "long": -84.49883429,
+    "Country": "US"
+  },
+  {
+    "areaCode": 514,
+    "lat": 46.126976,
+    "long": -73.355944,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 515,
+    "lat": 41.840495,
+    "long": -93.75476,
+    "Country": "US"
+  },
+  {
+    "areaCode": 516,
+    "lat": 40.70185474,
+    "long": -73.59814053,
+    "Country": "US"
+  },
+  {
+    "areaCode": 517,
+    "lat": 42.48702833,
+    "long": -84.13755167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 518,
+    "lat": 42.819186,
+    "long": -73.833068,
+    "Country": "US"
+  },
+  {
+    "areaCode": 519,
+    "lat": 43.2104985,
+    "long": -81.1431145,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 520,
+    "lat": 32.11801571,
+    "long": -110.9764843,
+    "Country": "US"
+  },
+  {
+    "areaCode": 530,
+    "lat": 39.33882286,
+    "long": -121.5665943,
+    "Country": "US"
+  },
+  {
+    "areaCode": 531,
+    "lat": 41.23897143,
+    "long": -96.88106286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 534,
+    "lat": 45.25371,
+    "long": -90.7018125,
+    "Country": "US"
+  },
+  {
+    "areaCode": 539,
+    "lat": 36.1754425,
+    "long": -95.783525,
+    "Country": "US"
+  },
+  {
+    "areaCode": 540,
+    "lat": 37.82954143,
+    "long": -79.50405714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 541,
+    "lat": 43.77279625,
+    "long": -123.1944163,
+    "Country": "US"
+  },
+  {
+    "areaCode": 548,
+    "lat": 43.23383118,
+    "long": -81.23092235,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 551,
+    "lat": 40.83885,
+    "long": -74.04567813,
+    "Country": "US"
+  },
+  {
+    "areaCode": 559,
+    "lat": 36.50766,
+    "long": -119.5360325,
+    "Country": "US"
+  },
+  {
+    "areaCode": 561,
+    "lat": 26.55579333,
+    "long": -80.13544083,
+    "Country": "US"
+  },
+  {
+    "areaCode": 562,
+    "lat": 33.89795286,
+    "long": -118.0842771,
+    "Country": "US"
+  },
+  {
+    "areaCode": 563,
+    "lat": 41.763524,
+    "long": -90.59797,
+    "Country": "US"
+  },
+  {
+    "areaCode": 564,
+    "lat": 47.41118222,
+    "long": -122.5702911,
+    "Country": "US"
+  },
+  {
+    "areaCode": 567,
+    "lat": 41.12878286,
+    "long": -83.21476,
+    "Country": "US"
+  },
+  {
+    "areaCode": 570,
+    "lat": 41.238118,
+    "long": -76.10365,
+    "Country": "US"
+  },
+  {
+    "areaCode": 571,
+    "lat": 38.8324725,
+    "long": -77.270965,
+    "Country": "US"
+  },
+  {
+    "areaCode": 573,
+    "lat": 38.27809667,
+    "long": -91.34191333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 574,
+    "lat": 41.672602,
+    "long": -86.066116,
+    "Country": "US"
+  },
+  {
+    "areaCode": 575,
+    "lat": 33.02238333,
+    "long": -104.6389383,
+    "Country": "US"
+  },
+  {
+    "areaCode": 579,
+    "lat": 45.75695865,
+    "long": -73.27781027,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 580,
+    "lat": 35.17099167,
+    "long": -97.964955,
+    "Country": "US"
+  },
+  {
+    "areaCode": 581,
+    "lat": 47.26140744,
+    "long": -71.35332372,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 585,
+    "lat": 43.17191333,
+    "long": -77.58194333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 586,
+    "lat": 42.53975857,
+    "long": -82.97031714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 587,
+    "lat": 52.68835364,
+    "long": -113.7020895,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 601,
+    "lat": 32.19705429,
+    "long": -89.96107286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 602,
+    "lat": 33.44838,
+    "long": -112.07404,
+    "Country": "US"
+  },
+  {
+    "areaCode": 603,
+    "lat": 43.04893875,
+    "long": -71.33472,
+    "Country": "US"
+  },
+  {
+    "areaCode": 604,
+    "lat": 49.30576625,
+    "long": -122.9847563,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 605,
+    "lat": 44.472588,
+    "long": -99.176772,
+    "Country": "US"
+  },
+  {
+    "areaCode": 606,
+    "lat": 38.47841,
+    "long": -82.63794,
+    "Country": "US"
+  },
+  {
+    "areaCode": 607,
+    "lat": 42.20970667,
+    "long": -76.40743667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 608,
+    "lat": 43.042495,
+    "long": -89.563915,
+    "Country": "US"
+  },
+  {
+    "areaCode": 609,
+    "lat": 39.9697625,
+    "long": -74.7087,
+    "Country": "US"
+  },
+  {
+    "areaCode": 610,
+    "lat": 40.251023,
+    "long": -75.457804,
+    "Country": "US"
+  },
+  {
+    "areaCode": 612,
+    "lat": 44.9708,
+    "long": -93.32084,
+    "Country": "US"
+  },
+  {
+    "areaCode": 613,
+    "lat": 44.93638471,
+    "long": -76.40218471,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 614,
+    "lat": 40.008745,
+    "long": -83.0058775,
+    "Country": "US"
+  },
+  {
+    "areaCode": 615,
+    "lat": 36.10672375,
+    "long": -86.5878425,
+    "Country": "US"
+  },
+  {
+    "areaCode": 616,
+    "lat": 42.915765,
+    "long": -85.73082,
+    "Country": "US"
+  },
+  {
+    "areaCode": 617,
+    "lat": 42.34858182,
+    "long": -71.10012727,
+    "Country": "US"
+  },
+  {
+    "areaCode": 618,
+    "lat": 38.56595375,
+    "long": -89.9325675,
+    "Country": "US"
+  },
+  {
+    "areaCode": 619,
+    "lat": 32.72058333,
+    "long": -117.0466042,
+    "Country": "US"
+  },
+  {
+    "areaCode": 620,
+    "lat": 38.0473075,
+    "long": -98.7502925,
+    "Country": "US"
+  },
+  {
+    "areaCode": 623,
+    "lat": 33.5849,
+    "long": -112.2981217,
+    "Country": "US"
+  },
+  {
+    "areaCode": 626,
+    "lat": 34.0783752,
+    "long": -118.0051808,
+    "Country": "US"
+  },
+  {
+    "areaCode": 628,
+    "lat": 37.927565,
+    "long": -122.517545,
+    "Country": "US"
+  },
+  {
+    "areaCode": 629,
+    "lat": 36.10672375,
+    "long": -86.5878425,
+    "Country": "US"
+  },
+  {
+    "areaCode": 630,
+    "lat": 41.8771732,
+    "long": -88.0948236,
+    "Country": "US"
+  },
+  {
+    "areaCode": 631,
+    "lat": 40.79404826,
+    "long": -73.20643,
+    "Country": "US"
+  },
+  {
+    "areaCode": 636,
+    "lat": 38.70597833,
+    "long": -90.598965,
+    "Country": "US"
+  },
+  {
+    "areaCode": 639,
+    "lat": 51.636756,
+    "long": -106.001166,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 640,
+    "lat": 39.9697625,
+    "long": -74.7087,
+    "Country": "US"
+  },
+  {
+    "areaCode": 641,
+    "lat": 42.07433667,
+    "long": -92.84010667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 646,
+    "lat": 40.71427,
+    "long": -74.00597,
+    "Country": "US"
+  },
+  {
+    "areaCode": 647,
+    "lat": 43.70011,
+    "long": -79.4163,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 650,
+    "lat": 37.53483375,
+    "long": -122.2846556,
+    "Country": "US"
+  },
+  {
+    "areaCode": 651,
+    "lat": 44.91242571,
+    "long": -93.08408786,
+    "Country": "US"
+  },
+  {
+    "areaCode": 657,
+    "lat": 33.80470067,
+    "long": -117.9245227,
+    "Country": "US"
+  },
+  {
+    "areaCode": 660,
+    "lat": 38.70446,
+    "long": -93.22826,
+    "Country": "US"
+  },
+  {
+    "areaCode": 661,
+    "lat": 35.11786571,
+    "long": -118.7745786,
+    "Country": "US"
+  },
+  {
+    "areaCode": 662,
+    "lat": 34.10931429,
+    "long": -89.63233286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 667,
+    "lat": 39.24997871,
+    "long": -76.58799065,
+    "Country": "US"
+  },
+  {
+    "areaCode": 669,
+    "lat": 37.26716556,
+    "long": -121.8848322,
+    "Country": "US"
+  },
+  {
+    "areaCode": 678,
+    "lat": 33.81447478,
+    "long": -84.36085522,
+    "Country": "US"
+  },
+  {
+    "areaCode": 680,
+    "lat": 43.253676,
+    "long": -75.862524,
+    "Country": "US"
+  },
+  {
+    "areaCode": 681,
+    "lat": 39.361145,
+    "long": -81.16209333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 682,
+    "lat": 32.75957533,
+    "long": -97.22340333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 701,
+    "lat": 47.4602675,
+    "long": -99.003305,
+    "Country": "US"
+  },
+  {
+    "areaCode": 702,
+    "lat": 36.14052714,
+    "long": -115.1143643,
+    "Country": "US"
+  },
+  {
+    "areaCode": 703,
+    "lat": 38.8324725,
+    "long": -77.270965,
+    "Country": "US"
+  },
+  {
+    "areaCode": 704,
+    "lat": 35.36768556,
+    "long": -80.74773778,
+    "Country": "US"
+  },
+  {
+    "areaCode": 705,
+    "lat": 45.7227065,
+    "long": -80.313261,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 706,
+    "lat": 33.63948429,
+    "long": -83.94034,
+    "Country": "US"
+  },
+  {
+    "areaCode": 707,
+    "lat": 38.51422909,
+    "long": -122.5273573,
+    "Country": "US"
+  },
+  {
+    "areaCode": 708,
+    "lat": 41.70573476,
+    "long": -87.72693048,
+    "Country": "US"
+  },
+  {
+    "areaCode": 709,
+    "lat": 48.94973286,
+    "long": -55.95987714,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 712,
+    "lat": 41.880965,
+    "long": -96.13057,
+    "Country": "US"
+  },
+  {
+    "areaCode": 713,
+    "lat": 29.70917889,
+    "long": -95.30039889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 714,
+    "lat": 33.80470067,
+    "long": -117.9245227,
+    "Country": "US"
+  },
+  {
+    "areaCode": 715,
+    "lat": 45.25371,
+    "long": -90.7018125,
+    "Country": "US"
+  },
+  {
+    "areaCode": 716,
+    "lat": 42.87564,
+    "long": -78.89547375,
+    "Country": "US"
+  },
+  {
+    "areaCode": 717,
+    "lat": 40.1537775,
+    "long": -76.582255,
+    "Country": "US"
+  },
+  {
+    "areaCode": 718,
+    "lat": 40.691608,
+    "long": -73.959668,
+    "Country": "US"
+  },
+  {
+    "areaCode": 719,
+    "lat": 38.64372,
+    "long": -104.7528333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 720,
+    "lat": 39.77755625,
+    "long": -105.0026667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 724,
+    "lat": 40.565275,
+    "long": -79.9919975,
+    "Country": "US"
+  },
+  {
+    "areaCode": 725,
+    "lat": 36.14052714,
+    "long": -115.1143643,
+    "Country": "US"
+  },
+  {
+    "areaCode": 726,
+    "lat": 29.42412,
+    "long": -98.49363,
+    "Country": "US"
+  },
+  {
+    "areaCode": 727,
+    "lat": 28.006899,
+    "long": -82.736329,
+    "Country": "US"
+  },
+  {
+    "areaCode": 731,
+    "lat": 35.61452,
+    "long": -88.81395,
+    "Country": "US"
+  },
+  {
+    "areaCode": 732,
+    "lat": 40.42072143,
+    "long": -74.32367929,
+    "Country": "US"
+  },
+  {
+    "areaCode": 734,
+    "lat": 42.25120273,
+    "long": -83.41347636,
+    "Country": "US"
+  },
+  {
+    "areaCode": 737,
+    "lat": 30.359314,
+    "long": -97.772174,
+    "Country": "US"
+  },
+  {
+    "areaCode": 740,
+    "lat": 39.74919875,
+    "long": -82.66145,
+    "Country": "US"
+  },
+  {
+    "areaCode": 743,
+    "lat": 35.986358,
+    "long": -79.858592,
+    "Country": "US"
+  },
+  {
+    "areaCode": 747,
+    "lat": 34.186115,
+    "long": -118.4355433,
+    "Country": "US"
+  },
+  {
+    "areaCode": 754,
+    "lat": 26.14313842,
+    "long": -80.20192526,
+    "Country": "US"
+  },
+  {
+    "areaCode": 757,
+    "lat": 36.87017143,
+    "long": -76.31351429,
+    "Country": "US"
+  },
+  {
+    "areaCode": 760,
+    "lat": 33.6695681,
+    "long": -116.7581124,
+    "Country": "US"
+  },
+  {
+    "areaCode": 762,
+    "lat": 33.63948429,
+    "long": -83.94034,
+    "Country": "US"
+  },
+  {
+    "areaCode": 763,
+    "lat": 45.09851444,
+    "long": -93.35914889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 765,
+    "lat": 40.28916857,
+    "long": -85.93796143,
+    "Country": "US"
+  },
+  {
+    "areaCode": 769,
+    "lat": 32.19705429,
+    "long": -89.96107286,
+    "Country": "US"
+  },
+  {
+    "areaCode": 770,
+    "lat": 33.8336605,
+    "long": -84.3569235,
+    "Country": "US"
+  },
+  {
+    "areaCode": 772,
+    "lat": 27.37194,
+    "long": -80.3461,
+    "Country": "US"
+  },
+  {
+    "areaCode": 773,
+    "lat": 41.88475,
+    "long": -88.20396,
+    "Country": "US"
+  },
+  {
+    "areaCode": 774,
+    "lat": 42.00699273,
+    "long": -71.22419455,
+    "Country": "US"
+  },
+  {
+    "areaCode": 775,
+    "lat": 38.6091575,
+    "long": -118.82945,
+    "Country": "US"
+  },
+  {
+    "areaCode": 778,
+    "lat": 50.3371798,
+    "long": -122.2148216,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 779,
+    "lat": 42.05086917,
+    "long": -88.6227275,
+    "Country": "US"
+  },
+  {
+    "areaCode": 780,
+    "lat": 53.9300256,
+    "long": -113.8699808,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 781,
+    "lat": 42.38921565,
+    "long": -71.10036565,
+    "Country": "US"
+  },
+  {
+    "areaCode": 782,
+    "lat": 45.0743675,
+    "long": -63.865825,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 785,
+    "lat": 38.984614,
+    "long": -96.88463,
+    "Country": "US"
+  },
+  {
+    "areaCode": 786,
+    "lat": 25.74041704,
+    "long": -80.35898037,
+    "Country": "US"
+  },
+  {
+    "areaCode": 801,
+    "lat": 40.65385643,
+    "long": -111.8801921,
+    "Country": "US"
+  },
+  {
+    "areaCode": 802,
+    "lat": 44.363525,
+    "long": -72.873175,
+    "Country": "US"
+  },
+  {
+    "areaCode": 803,
+    "lat": 34.08893,
+    "long": -81.057868,
+    "Country": "US"
+  },
+  {
+    "areaCode": 804,
+    "lat": 37.456984,
+    "long": -77.415816,
+    "Country": "US"
+  },
+  {
+    "areaCode": 805,
+    "lat": 34.60204125,
+    "long": -119.6962594,
+    "Country": "US"
+  },
+  {
+    "areaCode": 806,
+    "lat": 34.32821667,
+    "long": -101.79777,
+    "Country": "US"
+  },
+  {
+    "areaCode": 807,
+    "lat": 47.495825,
+    "long": -88.84699,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 808,
+    "lat": 20.95603556,
+    "long": -157.2379267,
+    "Country": "US"
+  },
+  {
+    "areaCode": 810,
+    "lat": 42.99428667,
+    "long": -83.24290333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 812,
+    "lat": 38.66688,
+    "long": -86.39125714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 813,
+    "lat": 28.04743889,
+    "long": -82.42785889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 814,
+    "lat": 40.9420075,
+    "long": -78.8154425,
+    "Country": "US"
+  },
+  {
+    "areaCode": 815,
+    "lat": 42.05086917,
+    "long": -88.6227275,
+    "Country": "US"
+  },
+  {
+    "areaCode": 816,
+    "lat": 39.104366,
+    "long": -94.500676,
+    "Country": "US"
+  },
+  {
+    "areaCode": 817,
+    "lat": 32.75957533,
+    "long": -97.22340333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 818,
+    "lat": 34.186115,
+    "long": -118.4355433,
+    "Country": "US"
+  },
+  {
+    "areaCode": 819,
+    "lat": 46.339735,
+    "long": -73.46564028,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 820,
+    "lat": 34.60204125,
+    "long": -119.6962594,
+    "Country": "US"
+  },
+  {
+    "areaCode": 825,
+    "lat": 53.548798,
+    "long": -113.321158,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 828,
+    "lat": 35.66707,
+    "long": -81.94761,
+    "Country": "US"
+  },
+  {
+    "areaCode": 830,
+    "lat": 29.478228,
+    "long": -99.325156,
+    "Country": "US"
+  },
+  {
+    "areaCode": 831,
+    "lat": 36.75860714,
+    "long": -121.7704657,
+    "Country": "US"
+  },
+  {
+    "areaCode": 832,
+    "lat": 29.70917889,
+    "long": -95.30039889,
+    "Country": "US"
+  },
+  {
+    "areaCode": 838,
+    "lat": 42.819186,
+    "long": -73.833068,
+    "Country": "US"
+  },
+  {
+    "areaCode": 843,
+    "lat": 33.0913225,
+    "long": -79.901955,
+    "Country": "US"
+  },
+  {
+    "areaCode": 845,
+    "lat": 41.47292,
+    "long": -74.06412333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 847,
+    "lat": 42.14730875,
+    "long": -87.94760563,
+    "Country": "US"
+  },
+  {
+    "areaCode": 848,
+    "lat": 40.42072143,
+    "long": -74.32367929,
+    "Country": "US"
+  },
+  {
+    "areaCode": 850,
+    "lat": 30.41866889,
+    "long": -86.61346,
+    "Country": "US"
+  },
+  {
+    "areaCode": 854,
+    "lat": 33.0913225,
+    "long": -79.901955,
+    "Country": "US"
+  },
+  {
+    "areaCode": 856,
+    "lat": 39.73721857,
+    "long": -75.05378571,
+    "Country": "US"
+  },
+  {
+    "areaCode": 857,
+    "lat": 42.34858182,
+    "long": -71.10012727,
+    "Country": "US"
+  },
+  {
+    "areaCode": 858,
+    "lat": 32.96282,
+    "long": -117.03586,
+    "Country": "US"
+  },
+  {
+    "areaCode": 859,
+    "lat": 38.4547925,
+    "long": -84.4768825,
+    "Country": "US"
+  },
+  {
+    "areaCode": 860,
+    "lat": 41.67400917,
+    "long": -72.64104167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 862,
+    "lat": 40.82511286,
+    "long": -74.21640333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 863,
+    "lat": 28.030855,
+    "long": -81.84133,
+    "Country": "US"
+  },
+  {
+    "areaCode": 864,
+    "lat": 34.72085833,
+    "long": -82.29456333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 865,
+    "lat": 35.9344575,
+    "long": -84.10762,
+    "Country": "US"
+  },
+  {
+    "areaCode": 867,
+    "lat": 62.30636,
+    "long": -105.9745233,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 870,
+    "lat": 34.65417167,
+    "long": -91.68221833,
+    "Country": "US"
+  },
+  {
+    "areaCode": 872,
+    "lat": 41.88475,
+    "long": -88.20396,
+    "Country": "US"
+  },
+  {
+    "areaCode": 873,
+    "lat": 46.46909136,
+    "long": -74.10479409,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 878,
+    "lat": 40.459707,
+    "long": -79.962276,
+    "Country": "US"
+  },
+  {
+    "areaCode": 901,
+    "lat": 35.120715,
+    "long": -89.849395,
+    "Country": "US"
+  },
+  {
+    "areaCode": 902,
+    "lat": 45.44152167,
+    "long": -63.15571417,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 903,
+    "lat": 33.01201111,
+    "long": -95.52637667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 904,
+    "lat": 30.25227667,
+    "long": -81.60564667,
+    "Country": "US"
+  },
+  {
+    "areaCode": 905,
+    "lat": 43.5654075,
+    "long": -79.333166,
+    "Country": "CA"
+  },
+  {
+    "areaCode": 906,
+    "lat": 46.233333,
+    "long": -86.35,
+    "Country": ""
+  },
+  {
+    "areaCode": 907,
+    "lat": 60.26835333,
+    "long": -141.136315,
+    "Country": "US"
+  },
+  {
+    "areaCode": 908,
+    "lat": 40.66289727,
+    "long": -74.28977364,
+    "Country": "US"
+  },
+  {
+    "areaCode": 909,
+    "lat": 34.074295,
+    "long": -117.5405572,
+    "Country": "US"
+  },
+  {
+    "areaCode": 910,
+    "lat": 34.757956,
+    "long": -78.453958,
+    "Country": "US"
+  },
+  {
+    "areaCode": 912,
+    "lat": 32.12640333,
+    "long": -81.49298333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 913,
+    "lat": 39.0303175,
+    "long": -94.718015,
+    "Country": "US"
+  },
+  {
+    "areaCode": 914,
+    "lat": 41.026625,
+    "long": -73.8051675,
+    "Country": "US"
+  },
+  {
+    "areaCode": 915,
+    "lat": 31.70664,
+    "long": -106.39512,
+    "Country": "US"
+  },
+  {
+    "areaCode": 916,
+    "lat": 38.54004235,
+    "long": -121.3983159,
+    "Country": "US"
+  },
+  {
+    "areaCode": 917,
+    "lat": 40.695385,
+    "long": -73.967385,
+    "Country": "US"
+  },
+  {
+    "areaCode": 918,
+    "lat": 36.1754425,
+    "long": -95.783525,
+    "Country": "US"
+  },
+  {
+    "areaCode": 919,
+    "lat": 35.72614286,
+    "long": -78.77469,
+    "Country": "US"
+  },
+  {
+    "areaCode": 920,
+    "lat": 43.948076,
+    "long": -88.281434,
+    "Country": "US"
+  },
+  {
+    "areaCode": 925,
+    "lat": 37.89177667,
+    "long": -121.935052,
+    "Country": "US"
+  },
+  {
+    "areaCode": 928,
+    "lat": 34.3190475,
+    "long": -113.5519425,
+    "Country": "US"
+  },
+  {
+    "areaCode": 929,
+    "lat": 40.691608,
+    "long": -73.959668,
+    "Country": "US"
+  },
+  {
+    "areaCode": 930,
+    "lat": 38.66688,
+    "long": -86.39125714,
+    "Country": "US"
+  },
+  {
+    "areaCode": 931,
+    "lat": 36.10256,
+    "long": -86.63212333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 934,
+    "lat": 40.79404826,
+    "long": -73.20643,
+    "Country": "US"
+  },
+  {
+    "areaCode": 936,
+    "lat": 30.99429,
+    "long": -95.097855,
+    "Country": "US"
+  },
+  {
+    "areaCode": 937,
+    "lat": 39.85426692,
+    "long": -84.11555769,
+    "Country": "US"
+  },
+  {
+    "areaCode": 938,
+    "lat": 34.41824333,
+    "long": -86.63888167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 940,
+    "lat": 33.39159333,
+    "long": -97.54021,
+    "Country": "US"
+  },
+  {
+    "areaCode": 941,
+    "lat": 27.20213333,
+    "long": -82.34435167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 947,
+    "lat": 42.54372462,
+    "long": -83.26242846,
+    "Country": "US"
+  },
+  {
+    "areaCode": 949,
+    "lat": 33.57348615,
+    "long": -117.7337162,
+    "Country": "US"
+  },
+  {
+    "areaCode": 951,
+    "lat": 33.819667,
+    "long": -117.258786,
+    "Country": "US"
+  },
+  {
+    "areaCode": 952,
+    "lat": 44.838195,
+    "long": -93.4117575,
+    "Country": "US"
+  },
+  {
+    "areaCode": 954,
+    "lat": 26.14313842,
+    "long": -80.20192526,
+    "Country": "US"
+  },
+  {
+    "areaCode": 956,
+    "lat": 26.299599,
+    "long": -98.138061,
+    "Country": "US"
+  },
+  {
+    "areaCode": 959,
+    "lat": 41.67400917,
+    "long": -72.64104167,
+    "Country": "US"
+  },
+  {
+    "areaCode": 970,
+    "lat": 40.11755,
+    "long": -105.854795,
+    "Country": "US"
+  },
+  {
+    "areaCode": 971,
+    "lat": 45.34785933,
+    "long": -122.7965427,
+    "Country": "US"
+  },
+  {
+    "areaCode": 972,
+    "lat": 32.86905783,
+    "long": -96.82601565,
+    "Country": "US"
+  },
+  {
+    "areaCode": 973,
+    "lat": 40.83461737,
+    "long": -74.21941579,
+    "Country": "US"
+  },
+  {
+    "areaCode": 978,
+    "lat": 42.60368286,
+    "long": -71.22620857,
+    "Country": "US"
+  },
+  {
+    "areaCode": 979,
+    "lat": 30.11206667,
+    "long": -96.04625333,
+    "Country": "US"
+  },
+  {
+    "areaCode": 980,
+    "lat": 35.36768556,
+    "long": -80.74773778,
+    "Country": "US"
+  },
+  {
+    "areaCode": 984,
+    "lat": 35.72614286,
+    "long": -78.77469,
+    "Country": "US"
+  },
+  {
+    "areaCode": 985,
+    "lat": 29.97931333,
+    "long": -90.32739,
+    "Country": "US"
+  },
+  {
+    "areaCode": 986,
+    "lat": 44.415674,
+    "long": -115.558462,
+    "Country": "US"
+  },
+  {
+    "areaCode": 989,
+    "lat": 43.52936,
+    "long": -84.16104,
+    "Country": "US"
+  }
 ]

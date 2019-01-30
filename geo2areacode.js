@@ -16,11 +16,11 @@ let myLoc = {
 }
 
 //Vancouver
-myLoc = {
+/*myLoc = {
   lat:  49.2827291,
   long: -123.12073750000002
 }
-
+*/
 
 distances = db.map((item)=>{
   let dist = getDistance(myLoc.lat, myLoc.long, item.lat, item.long)
@@ -28,4 +28,4 @@ distances = db.map((item)=>{
 })
 distances.sort((a, b)=>{return a.distance - b.distance});
 //Display the top 10
-console.log(distances.slice(1,11))
+console.log(distances.slice(0,10))
